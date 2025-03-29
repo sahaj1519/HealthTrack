@@ -11,7 +11,9 @@ SwiftUI & HealthKit: Built with native SwiftUI and integrates directly with Heal
 Clean UI: Minimalist, Apple-inspired design with interactive graphs.
 Screenshots
 
-![IMG_2173](https://github.com/user-attachments/assets/56d3fad5-32cd-4e9c-ac48-f0be20ea3207)
+
+![healthtrack 001](https://github.com/user-attachments/assets/27649fba-416f-4b31-bb33-194048226cab)
+
 
 
 Tech Stack
